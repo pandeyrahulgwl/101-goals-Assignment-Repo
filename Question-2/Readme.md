@@ -1,0 +1,1 @@
+Q.2 Create a deployment to run nginx on kubernetes and application should be accessible from the internet.
